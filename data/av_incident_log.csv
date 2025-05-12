@@ -1,0 +1,5 @@
+timestamp,speed_kph,brake_engaged,object_detected,gps_location
+2025/05/10 10:04,50,FALSE,none,"35.1651,136.9082"
+2025/05/10 10:05,48,FALSE,pedestrian,"35.1651,136.9083"
+2025/05/10 10:05,20,TRUE,pedestrian,"35.1652,136.9084"
+2025/05/10 10:05,0,TRUE,pedestrian,"35.1653,136.9085"
