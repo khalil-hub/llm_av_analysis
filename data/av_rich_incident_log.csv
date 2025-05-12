@@ -1,0 +1,5 @@
+timestamp,speed_kph,brake_engaged,object_detected,gps_location,acceleration,steering_angle_deg,traffic_signal,weather,control_mode
+2025-05-10 10:04:55,50,False,none,"35.1651,136.9082",0.0,0,green,clear,autonomous
+2025-05-10 10:05:00,48,False,pedestrian,"35.1651,136.9083",-0.4,0,green,clear,autonomous
+2025-05-10 10:05:05,20,True,pedestrian,"35.1652,136.9084",-2.5,5,red,rain,autonomous
+2025-05-10 10:05:10,0,True,pedestrian,"35.1653,136.9085",-2.0,10,red,rain,manual_override
